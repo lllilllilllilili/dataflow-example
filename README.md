@@ -4,7 +4,7 @@ QuickLab 진행 후에 On-premise 환경에서 GCP와 연동한 ETL 작업
 
 금일 실습한 프로젝트 관련 소스는 [여기](https://github.com/GoogleCloudPlatform/professional-services/tree/main/examples/dataflow-python-examples/batch-examples/cookbook-examples/pipelines) 에서 확인해볼 수 있습니다.
 
-github 관련해서 진행하다 안되시는것이 있으면 <gscloud94@gscdn.com> 으로 메일 부탁드립니다. 메일 주실 때는 `소스 코드`, `오류 내용` 등 해결에 도움이 될 수 있는 모든 사진을 부탁드리겠습니다.
+github 관련해서 진행하다 안되시는것이 있으면 -생략- 으로 메일 부탁드립니다. 메일 주실 때는 `소스 코드`, `오류 내용` 등 해결에 도움이 될 수 있는 모든 사진을 부탁드리겠습니다.
 
 ## 다운로드 Pycharm or VsCode
 
